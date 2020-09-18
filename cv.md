@@ -18,7 +18,7 @@ Period | Place | Description
 Period | Place | Description
 --- | --- | --- |
 2006—2012 | Belarusian State Agrarian Technical University | Master of Economics / Department of Economic Informatics
-2020yy | Skilup | Frontend developer
+2020 | Skilup | Frontend developer
 #### Foreign languages:
  - English (B1);
  - German language (A1).
