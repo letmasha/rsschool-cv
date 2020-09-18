@@ -9,16 +9,11 @@ I came to these courses to learn the basics of Javascript from existing js progr
  - CSS (middle).
 
 #### Work experience: 
-Period | Place | Description
---- | --- | --- |
-2013—2015 | OJSC Agat Electromechanical Plant  | *Production preparation engineer* (development of tasks and plans for the work of the workshop, preparation of technical specifications for the automation of the internal database and integration into 1C)
-2015—2018 |  -  | *educational services*
-2018—now |OJSC Belarusian Universal Commodity Exchange | *specialist in the management of forest products trading* (post-trade service of contracts)
+ 1. OJSC Agat Electromechanical Plant (2013—2015) - *Production preparation engineer* (development of tasks and plans for the work of the workshop, preparation of technical specifications for the automation of the internal database and integration into 1C)
+2. OJSC Belarusian Universal Commodity Exchange (2018—now) *specialist in the management of forest products trading* (post-trade service of contracts)
 #### Education: 
-Period | Place | Description
---- | --- | --- |
-2006—2012 | Belarusian State Agrarian Technical University | Master of Economics / Department of Economic Informatics
-2020 | Skilup | Frontend developer
+2006—2012 --- Belarusian State Agrarian Technical University: Master of Economics / Department of Economic Informatics
+2020 --- Skilup:  Frontend developer
 #### Foreign languages:
  - English (B1);
  - German language (A1).
