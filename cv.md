@@ -12,8 +12,8 @@ I came to these courses to learn the basics of Javascript from existing js progr
  1. OJSC Agat Electromechanical Plant (2013—2015) - *Production preparation engineer* (development of tasks and plans for the work of the workshop, preparation of technical specifications for the automation of the internal database and integration into 1C)
 2. OJSC Belarusian Universal Commodity Exchange (2018—now) *specialist in the management of forest products trading* (post-trade service of contracts)
 #### Education: 
-2006—2012 --- Belarusian State Agrarian Technical University: Master of Economics / Department of Economic Informatics
-2020 --- Skilup:  Frontend developer
+1. Belarusian State Agrarian Technical University (2006—2012): Master of 2. Economics / Department of Economic Informatics
+2. Skilup (2020):  Frontend developer
 #### Foreign languages:
  - English (B1);
  - German language (A1).
